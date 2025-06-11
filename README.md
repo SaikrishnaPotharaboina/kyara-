@@ -17,6 +17,9 @@ index.html
 ├── css/
 │ └── style.css
 ├── img/
+│ └── img1
+│ └── img2
+│ └── img3
 
 
  How to Open
