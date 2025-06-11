@@ -1,0 +1,14 @@
+.hero {
+  background-image: url("../img/background3.jpg");
+}
+
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
+h1,
+p
+{
+  color: rgb(212, 7, 82);
+  width:600 ;
+}
